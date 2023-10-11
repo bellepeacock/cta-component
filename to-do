@@ -1,0 +1,7 @@
+ [x] set up file structure for cta banner with divs
+ [x] create features in index.html file
+ [x] add button logic in js file
+    [x] can also create button dynamically
+    [ ] and h1 and copy dynamically?
+ [ ] get colors, spacing etc from Tristan
+ [ ] add styling to features
